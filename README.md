@@ -37,9 +37,9 @@ docker run --rm docker-python-app
 
 ```text
 ==================================================
-Python Version : 3.12.x
+Python Version : 3.12.13 (main, Jun 11 2026, 01:09:00) [GCC 14.2.0]
 Current Date   : 2026-06-21
-Current Time   : 10:30:15
+Current Time   : 04:49:21
 ==================================================
 ```
 
